@@ -1,1 +1,28 @@
 # homeLab
+
+Various experiments and things I've done.
+
+## ToC
+
+* [Anubis Bypass 𓃩](/anubis_bypass) - [Bash] Finding a way around the Anubis WAF to continue scraping websites
+* ...
+* [Lab specs](/specs.md)
+
+
+## etc.
+
+### Tools
+
+* [website differ](https://github.com/ChaseJxyz/website-differ) - [Bash] Compares webpage to saved copy
+* [Moksha checker](https://github.com/ChaseJxyz/Moksha-Checker) - [Python] Check multiple status pages at once
+
+### Projects
+
+* [Forage - Commonwealth Bank](https://github.com/ChaseJxyz/Forage-Commonwealth-Bank) - [Splunk, Kali, Burp] Cyber generalist job simulation
+* [The Fox's Wedding](https://github.com/ChaseJxyz/the-foxs-wedding)- [Python] Text-based adventure engine + game
+* [A (Partial) Day as a Platypus](https://github.com/ChaseJxyz/interactive-fiction/tree/main/A%20Partial%20Day%20as%20a%20Platypus) ([play here](https://chasejxyz.itch.io/a-partial-day-as-a-platypus)) - [Inform7] Text-based adventure game
+
+### Documents
+
+* [Hacker's Journey walkthrough](https://github.com/ChaseJxyz/hackers-journey-walkthrough)
+* [User readme](https://github.com/ChaseJxyz/ChaseJxyz)
