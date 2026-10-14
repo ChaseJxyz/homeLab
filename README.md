@@ -1,10 +1,11 @@
 # homeLab
 
-Various experiments and things I've done.
+Various experiments and things I've done. You can read this more nicely as [it's own site](https://chasejxyz.github.io/homeLab/).  x
 
 ## ToC
 
-* [Anubis Bypass 𓃩](/anubis_bypass) - [Bash] Finding a way around the Anubis WAF to continue scraping websites
+* [Anubis Bypass 𓃩](/anubis_bypass.md) - [Bash] Finding a way around the Anubis WAF to continue scraping websites
+* [genAI Coding](/gemini_coding.md) - [Gemini + Bash] Using an LLM to code a script.
 * ...
 * [Lab specs](/specs.md)
 
