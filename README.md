@@ -1,6 +1,6 @@
 # homeLab
 
-Various experiments and things I've done. You can read this more nicely as [it's own site](https://chasejxyz.github.io/homeLab/).  x
+Various experiments and things I've done. You can read this more nicely as [it's own site](https://chasejxyz.github.io/homeLab/).
 
 ## ToC
 
