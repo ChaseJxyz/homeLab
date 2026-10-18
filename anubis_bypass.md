@@ -16,7 +16,7 @@ For this to work, I need to put together:
 2. How to satisfy Anubis while "web browsing" via the terminal
 3. How to make my script act differently if it's blocked by Anubis
 
-Note: I use the word "target" in this post to specific the site that I want to scrape. This is *not* Target, as in the 🎯 big box store.
+Note: I use the word "target" in this post to specific the site that I want to scrape. This is *not* Target, as in the 🎯 big box store. Also see [part 2](/anubis_2.md) for how this was updated!
 
 ## Tools and Hardware
 

@@ -5,6 +5,7 @@ Various experiments and things I've done. You can read this more nicely as [it's
 ## ToC
 
 * [Anubis Bypass 𓃩](/anubis_bypass.md) - [Bash] Finding a way around the Anubis WAF to continue scraping websites
+  * [part 2](/anubis_2.md) - [Gemini + Bash] Further refinement, debugging + adding features to improve functionality
 * [genAI Coding](/gemini_coding.md) - [Gemini + Bash] Using an LLM to code a script.
 * ...
 * [Lab specs](/specs.md)
