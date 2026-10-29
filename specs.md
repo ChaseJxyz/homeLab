@@ -9,7 +9,7 @@ Kernel: 7.X.X-XX-generic
 Shell: zsh 5.9
 Terminal: gnome-terminal
 CPU: AMD Ryzen 5 5600X (12) @ 4.6GHz
-GPU: AMD ATI Radeon RX 7700S/7600/7600S/7600
+GPU: AMD ATI Device 7590
 Memory: 31.26 GiB
 Notes: Originally a iBUYPOWER prebuilt, it's been Ship of Theseus'd into its current form. The oldest component isn't the case; it's a monitor I've been using since ~2010. A mousepad I've been using since the 90's has recently been retired.
 
